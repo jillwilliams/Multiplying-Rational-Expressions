@@ -1,0 +1,41 @@
+body {
+    margin: 25px 25px;
+    background-color: blue;
+    font-family: "Indie Flower";
+    letter-spacing: 3px;
+    font-size: 1.7rem;
+    color: white;
+    text-shadow: 2px 2px 1px black;
+}
+h1 {
+    font-size: 2rem;
+    text-align: center;
+    color: white;
+    text-shadow: 2px 2px 1px black;
+}
+a {
+    color: yellow;
+}
+#pic1, #pic2 {
+    width: 15%;
+    height: auto;
+    margin: 15px 42.5%;
+    border: 2px white solid;
+    outline: 1px black solid;
+}
+#pic3, #pic4, #pic5 {
+    width: 40%;
+    height: auto;
+    margin: 15px 30%;
+    border: 2px white solid;
+    outline: 1px black solid;
+}
+iframe {
+    margin: 15px 33%;
+    border: 2px white solid;
+    outline: 1px black solid;
+}
+footer {
+    text-align: center;
+    font-size: 1rem;
+}
